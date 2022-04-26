@@ -1,8 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20World&desc=lnuvy&fontColor=black&fontAlignY=40&fontSize=100&descSize=40&descAlignY=70)
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=lnuvy&show_icons=true)
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lnuvy&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)(https://github.com/lnuvy
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hangeulgod)](https://solved.ac/hangeulgod/)
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
 <!--
