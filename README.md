@@ -1,7 +1,9 @@
-### Hi there 👋
 
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=lnuvy&show_icons=true)
+![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lnuvy&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)(https://github.com/lnuvy
 
-https://camo.githubusercontent.com/6d3d557c007cc0c98668e99fc7f30914c886a044eec87db960cff8f3c90593bc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d796d6b776f6e332673686f775f69636f6e733d74727565
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hangeulgod)](https://solved.ac/hangeulgod/)
+
 <!--
 **lnuvy/lnuvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
