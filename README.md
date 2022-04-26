@@ -4,6 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hangeulgod)](https://solved.ac/hangeulgod/)
 
+<img src="https://img.shields.io/badge/JAVASCRIPT-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
 <!--
 **lnuvy/lnuvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
