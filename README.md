@@ -46,6 +46,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=ssinking91&fontSize=70)
  
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssinking91&count_bg=%2310C7B3&title_bg=%23555555&icon=&icon_color=%23CD9696&title=hits&edge_flat=false)](https://github.com/ssinking91)   -->
+
+<!-- 
 <img src="https://komarev.com/ghpvc/?username=ssinking91&&style=flat-square" align="right" />
 <br>
 <h1 align="center">Hi 👋, I'm Hang Min Shin</h1>
