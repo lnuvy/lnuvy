@@ -41,6 +41,9 @@
 </div>
 
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer)
+
+
 
 <!-- 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=ssinking91&fontSize=70)
