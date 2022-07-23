@@ -38,9 +38,9 @@
 <!--       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> -->
   
   
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&descSize=40&descAlignY=70&section=footer)
+  
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&descSize=40&descAlignY=70&section=footer)
 
 
 
