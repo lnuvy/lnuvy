@@ -40,8 +40,7 @@
   
 </div>
 
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&descSize=40&descAlignY=70&section=footer)
 
 
 
