@@ -1,7 +1,8 @@
 ## 👋 Hi, I'm Hanul Lee
 
-My notion resume is [here](https://lnuvy.super.site/).
+My notion resume is [here](https://lnuvyresume.super.site/).
 <!-- 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=ssinking91&fontSize=70)
  
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssinking91&count_bg=%2310C7B3&title_bg=%23555555&icon=&icon_color=%23CD9696&title=hits&edge_flat=false)](https://github.com/ssinking91)   -->
