@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Hanul Lee
 
+<!-- 
 My notion resume is [here](https://lnuvyresume.super.site/).
 <!-- 
 
